@@ -16,7 +16,8 @@ export default class ProductsList extends Component {
                             <ProductConsumer>
                                 {value=>{
                                     return value.products.map( product => {
-                                        return <Product key={Product.id} product={Product}/>;
+                                        // 呼叫 Product。js这个component
+                                        return <Product key={product.id} product={product}/>;
                                     })
                                 }}
                             </ProductConsumer>

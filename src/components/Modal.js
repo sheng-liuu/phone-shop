@@ -9,6 +9,7 @@ export default class Modal extends Component {
         return (
             <ProductConsumer>
                 {(value) => {
+                    // value 是 context 中的rendar里定义的value
                     const {modalOpen, closeModal} = value;
                     const {img, title, price} = value.modalProduct;
                     if(!modalOpen) {

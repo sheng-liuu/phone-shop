@@ -1,3 +1,7 @@
+![images](https://github.com/sheng-liuu/phone-shop/blob/master/screencapture-localhost-3000-1599053781359.png)
+![images](https://github.com/sheng-liuu/phone-shop/blob/master/screencapture-localhost-3000-cart-1599053867376.png)
+![images](https://github.com/sheng-liuu/phone-shop/blob/master/screencapture-localhost-3000-details-1599053842469.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
